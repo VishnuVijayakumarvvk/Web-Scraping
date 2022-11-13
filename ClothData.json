@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Simple",
+        "price": "$80.00",
+        "image": "https://j2store.net/demo/images/themeparrot/t-shirt/t-shirt_01.png"
+    },
+    {
+        "name": "Variable",
+        "price": "$40.00",
+        "image": "https://j2store.net/demo/images/themeparrot/leggings/leggins_01.png"
+    },
+    {
+        "name": "Configurable",
+        "price": "$50.00",
+        "image": "https://j2store.net/demo/images/themeparrot/pots/pots_and_pans_01.png"
+    },
+    {
+        "name": "Downloadable",
+        "price": "$30.00",
+        "image": "https://j2store.net/demo/images/themeparrot/product_image_07.png"
+    },
+    {
+        "name": "Blender1",
+        "price": "$110.00",
+        "image": "https://j2store.net/demo/images/themeparrot/blenders/blenders_01.png"
+    },
+    {
+        "name": "Blender2",
+        "price": "$150.00",
+        "image": "https://j2store.net/demo/images/themeparrot/blenders/blenders_02.png"
+    },
+    {
+        "name": "Blender3",
+        "price": "$79.00",
+        "image": "https://j2store.net/demo/images/themeparrot/blenders/blenders_03.png"
+    },
+    {
+        "name": "Blender4",
+        "price": "$110.00",
+        "image": "https://j2store.net/demo/images/themeparrot/blenders/blenders_05.png"
+    },
+    {
+        "name": "T-Shirt1",
+        "price": "$95.00",
+        "image": "https://j2store.net/demo/images/themeparrot/t-shirt/t-shirt_05.png"
+    }
+]
